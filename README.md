@@ -8,12 +8,12 @@ Social management and growth software (SMAGS) - built to help manage contacts an
   - plan posts and post for me
   - prune existing followers for higher rates of engagement
 
-## Social Accounts   
-  - LinkedIn
-  - Youtube
-  - Instagram
-  - Website / newsletter
-  - Twitter
-  - Tinder
-  - Spotify
-  - Github
+## Social Accounts (+ december goals)
+  - LinkedIn - 2,200 followers
+  - Youtube - 200 subscribers
+  - Instagram - 500 flowers
+  - Website / newsletter - 200 atricle views
+  - Twitter - 100 followers
+  - Tinder 
+  - Spotify - 100 followers
+  - Github - 20 followers
