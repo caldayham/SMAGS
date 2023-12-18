@@ -7,3 +7,13 @@ Social management and growth software (SMAGS) - built to help manage contacts an
   - automate outreach and growth
   - plan posts and post for me
   - prune existing followers for higher rates of engagement
+
+## Social Accounts   
+  - LinkedIn
+  - Youtube
+  - Instagram
+  - Website / newsletter
+  - Twitter
+  - Tinder
+  - Spotify
+  - Github
